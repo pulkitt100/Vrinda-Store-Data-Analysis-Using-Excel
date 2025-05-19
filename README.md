@@ -19,5 +19,10 @@ In this project, I completed the full end-to-end data analysis process — from 
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 ![Screenshot 2025-05-19 004331](https://github.com/user-attachments/assets/15e81bb7-4069-4fe2-aa2b-758e48b0342c)
-
+## Project Insights
+- Women customers are more likely to buy products compared to men (~65%).
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered
 
