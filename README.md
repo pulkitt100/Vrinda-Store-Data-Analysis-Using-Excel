@@ -23,6 +23,9 @@ In this project, I completed the full end-to-end data analysis process — from 
 10.Dashboard Interaction 
 ## Process
 1.Verify data for any missing values and anomalies, and sort out the same.
+
 2.Made sure data is consistent and clean with respect to data type, data format and values used.
+
 3.Created pivot tables according to the questions asked.
+
 4.Merge all pivot tables into one dashboard and apply slicer to make dynamic.
