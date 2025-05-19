@@ -29,3 +29,5 @@ In this project, I completed the full end-to-end data analysis process — from 
 3.Created pivot tables according to the questions asked.
 
 4.Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+
