@@ -30,4 +30,4 @@ In this project, I completed the full end-to-end data analysis process — from 
 
 4.Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
-
+https://github.com/pulkitt100/Vrinda-Store-Data-Analysis-Using-Excel/blob/main/Screenshot%202025-05-19%20004331.png
